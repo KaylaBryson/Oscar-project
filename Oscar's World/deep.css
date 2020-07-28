@@ -1,0 +1,14 @@
+body{background-color: darkslateblue;
+    background: radial-gradient( purple,blue,green); 
+    color: floralwhite;}
+footer{color: floralwhite;}
+a:link {
+    color: pink;
+}
+/* A link that has been visited */
+a:visited {
+    color:coral;
+}
+h3{font-family: 'Courier New', Courier, monospace;}
+p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+form{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}

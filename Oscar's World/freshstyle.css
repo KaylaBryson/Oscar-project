@@ -1,0 +1,13 @@
+body{background-color: aquamarine;
+background: repeating-linear-gradient(green,limegreen,teal);
+color: whitesmoke;}
+a:link {
+    color: black;
+}
+/* A link that has been visited */
+a:visited {
+    color:coral;
+}
+h3{font-family: 'Courier New', Courier, monospace;}
+p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+form{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
